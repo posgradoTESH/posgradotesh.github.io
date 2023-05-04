@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Posgrado TESH
 middle_name:
 last_name:
-email: you@example.com
+email: enrique.g.t@huixquilucan.tecnm.mx
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Página de Internet del Programa de Posgrado del Tecnológico de Estudios Superiores de Huixquilucan.
 footer_text: >
