@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Dr. Enrique García Trinidad
+title: Dr. Maximino Sánchez Muñoz
 description: LGAC 
 img: assets/img/12.jpg
-importance: 3
+importance: 7
 category: work
 ---
 
