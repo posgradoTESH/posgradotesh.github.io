@@ -76,9 +76,34 @@ Documentos
 | 3.5   | Acuerdo por el que se emiten los lineamientos generales para la integración y funcionamiento de los comites de ética | [Descargar](/assets/pdf/3-05.pdf) |
 | 3.6   | Bases para la integración organización y funcionamiento del comité de ética TECNM                                    | [Descargar](/assets/pdf/3-06.pdf) |
 
-
 ## 4. Aplicación de protocolos para a atención y prevención de la violencia, equidad de genero, inclusión y no discriminación
+
+Documentos
+
+| Punto | Descripción                                                                                                          | Documento                         |
+| :---- | :------------------------------------------------------------------------------------------------------------------: | ------------------------------- : |
+| 4.1.1 | Protocolo de actuación con perspectiva de genero, acoso y hostigamiento sexual 1                                     | [Descargar](/assets/pdf/4-11.pdf) |
+| 4.1.2 | Protocolo de actuación con perspectiva de genero, acoso y hostigamiento sexual 2                                     | [Descargar](/assets/pdf/4-12.pdf) |
+| 4.2   | Protocolo de prevención, atención, sanción, hostigamiento y acoso sexual                                             | [Descargar](/assets/pdf/4-02.pdf) |
+| 4.3   | Sistema de gestión de igualdad de genero y no discriminación                                                         | [Descargar](/assets/pdf/4-03.pdf) |
+| 4.4   | Ley general para la inclusión de las personas con discapacidad                                                       | [Descargar](/assets/pdf/4-04.pdf) |
 
 ## 5. Procedimientos para la resolución de conflictos academicos (estudiantes, docentes,comites tutoriales)
 
+Documentos
+
+| Punto | Descripción                                                                                                          | Documento                         |
+| :---- | :------------------------------------------------------------------------------------------------------------------: | ------------------------------- : |
+| 5.1   | Operación de los estudios de posgrado en el TecNM                                                                    | [Descargar](/assets/pdf/5-01.pdf) |
+| 5.2   | Ley general de responsabilidades administrativas                                                                     | [Descargar](/assets/pdf/5-02.pdf) |
+| 5.5   | Reglamento de estudiantes del TecNM                                                                                  | [Descargar](/assets/pdf/5-05.pdf) |
+
 ## 10. Actualización docente, plan de estudios e innovación educativa
+
+Documentos
+
+| Punto  | Descripción                                                                                                        | Documento                          |
+| :----  | :----------------------------------------------------------------------------------------------------------------: | -------------------------------- : |
+| 10.1.1 | Convocatoria para apertura de programas de posgrado del TecNM                                                      | [Descargar](/assets/pdf/10-11.pdf) |
+| 10.1.2 | Convocatoria para apertura de programas de posgrado del TecNM 2021-2                                               | [Descargar](/assets/pdf/10-12.pdf) |
+| 10.1.3 | Convocatoria para apertura de programas de posgrado del TecNM 2021-3                                               | [Descargar](/assets/pdf/10-13.pdf) |
