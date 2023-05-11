@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Mtra. Claudia Xilomen Rojas Pavón
+title: Mtra. Guadalupe Jimenez Hernández
 description: LGAC 
 img: assets/img/12.jpg
-importance: 1
+importance: 4
 category: work
 ---
 
