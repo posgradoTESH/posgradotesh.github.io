@@ -3,7 +3,7 @@ layout: page
 title: Dr. Cesar Felipe Juárez Carrillo
 description: LGAC Mecatrónica
 img: assets/img/12.jpg
-importance: 1
+importance: 3
 category: mecatrónica
 ---
 

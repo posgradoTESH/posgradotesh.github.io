@@ -3,8 +3,8 @@ layout: page
 title: Dr. Manuel Peralta Gutiérrez
 description: LGAC Tecnologías en Energías Renovables
 img: assets/img/12.jpg
-importance: 1
-category: work
+importance: 2
+category: energías renovables
 ---
 
 El Dr. Manuel Peralta Gutiérrez es Ingeniero Mecánico por el Instituto Politécnico Nacional, con Maestría en Ciencias en Termofluidos por la misma Institución. Recibió el grado de Doctor en Ingeniería Mecánica con Especialidad en Termofluidos por la Universidad Nacional Autónoma de México. Actualmente es Profesor Titular A en el Tecnológico de Estudios Superiores de Huixquilucan. Cuenta con 6 artículos científicos arbitrados y publicados en revistas reconocidas por el JCR, SCIMAGO y SCOPUS, mismos que han sido citados en al menos 85 ocasiones en el JCR, su investigación se encuentra enmarcada en el estudio de fenómenos de transporte que incluyen mecánica de fluidos; transferencia de calor y masa; fuentes alternas de energía (energía undimotriz, energía solar y biomasa) y eficiencia energética, impactando a la sociedad con la formación de recursos humanos en los niveles de licenciatura, maestría y doctorado en temas prioritarios del país como son: el aprovechamientos y uso de sus océanos, eficiencia energética y energías alternas renovables. Actualmente es miembro del Sistema Nacional de Investigadores Nivel I y obtuvo el perfil deseable por el Tecnológico Nacional de México (TecNM). Estuvo a cargo de un proyecto de investigación financiado por el TecNM, y participo como colaborador en dos proyectos patrocinado por el TecNM. En estos momentos es Investigador Asociado en un proyecto de Ciencia Básica en la Sección de Estudios de Posgrado e Investigación de la Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Azcapotzalco del IPN. Tiene la distinción de Profesor de Tiempo Completo con Perfil Deseable (PRODEP) y es el Líder del Cuerpo Académico de Ciencias y Tecnología en Termofluidos y Mecatrónica Avanzada del Tecnológico de Estudios Superiores de Huixquilucan. 
