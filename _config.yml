@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Desarrollado por el Cuerpo Académico Ciencia y Tecnologia en Termofluidos y Mecatrónica Avanzada.
   Hospedado en <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Página oficial del <a href="https://teshuixquilucan.edomex.gob.mx/" target="_blank">Tecnológico de Estudios Superiores de Huixquilucan</a>.
+  Página NO oficial del <a href="https://teshuixquilucan.edomex.gob.mx/" target="_blank">Tecnológico de Estudios Superiores de Huixquilucan</a>.
 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
