@@ -174,7 +174,7 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    permalink: /academicos/:path/
+    permalink: /projects/:path/
 
 announcements:
   enabled: true
