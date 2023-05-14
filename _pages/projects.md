@@ -5,7 +5,7 @@ permalink: /projects/
 description: Profesores adscritos al Programa de Maestría en Ciencias de la Ingeniería 
 nav: true
 nav_order: 2
-display_categories: [mecatrónica, energías renovables, work]
+display_categories: [energías renovables, mecatrónica, gestión e innovación administrativa]
 horizontal: false
 ---
 
