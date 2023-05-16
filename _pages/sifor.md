@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: Oferta Educativa
+permalink: /sifor/
+title: Documentos SIFOR
 description: Maestría en Ciencias de la Ingeniería
 nav: true
 nav_order: 1
