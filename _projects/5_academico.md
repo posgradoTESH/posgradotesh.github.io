@@ -3,7 +3,7 @@ layout: page
 title: Dr. Manuel Peralta Gutiérrez
 description: LGAC Tecnologías en Energías Renovables
 img: assets/img/manuel.jpg
-importance: 2
+importance: 1
 category: energías renovables
 ---
 
