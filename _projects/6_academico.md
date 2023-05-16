@@ -2,7 +2,7 @@
 layout: page
 title: Mtra. Claudia Xilomén Rojas Pavon
 description: LGAC Gestión e Innovación Administrativa
-img: assets/img/12.jpg
+img: assets/img/claudia.jpg
 importance: 1
 category: gestión e innovación administrativa
 ---

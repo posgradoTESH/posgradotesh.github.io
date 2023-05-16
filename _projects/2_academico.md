@@ -2,7 +2,7 @@
 layout: page
 title: Dr. José Rafael García Sánchez
 description: LGAC Mecatrónica
-img: assets/img/12.jpg
+img: assets/img/rafael.jpg
 importance: 1
 category: mecatrónica
 ---

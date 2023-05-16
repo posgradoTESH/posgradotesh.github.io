@@ -2,7 +2,7 @@
 layout: page
 title: Dr. Emmanuel Arcos Hernández
 description: LGAC Tecnologías en Energías Renovables
-img: assets/img/12.jpg
+img: assets/img/emmanuel.jpg
 importance: 1
 category: energías renovables
 ---

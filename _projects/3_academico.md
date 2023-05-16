@@ -2,7 +2,7 @@
 layout: page
 title: Dr. Enrique García Trinidad
 description: LGAC Mecatrónica
-img: assets/img/12.jpg
+img: assets/img/enrique.jpg
 importance: 2
 category: mecatrónica
 ---
