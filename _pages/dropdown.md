@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: Documentos propuesta
 nav: true
 nav_order: 5
 dropdown: true

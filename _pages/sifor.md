@@ -3,7 +3,7 @@ layout: page
 permalink: /sifor/
 title: Documentos SIFOR
 description: Maestría en Ciencias de la Ingeniería
-nav: true
+nav: false
 nav_order: 1
 ---
 
