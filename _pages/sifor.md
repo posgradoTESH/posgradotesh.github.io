@@ -43,6 +43,7 @@ Para el caso de los estudiantes del PMCI el proceso de formación, Investigació
 
 | Punto | Descripción                                                                                               | Documento                         |
 | :---- | :-------------------------------------------------------------------------------------------------------: | ------------------------------- : |
+| 2.1   | Centro de aplicaciones del TECNM-TESH                                                                     | [Ir](https://teshuixquilucan.edomex.gob.mx/titulacion) |
 | 2.2   | Lineamientos para la Operacion de estudios de Posgrado TECNM                                              | [Descargar](/assets/pdf/2-02.pdf) |
 
 ## 3. Políticas y normas para garantizar la ética en la formación e investigación del posgrado
@@ -91,6 +92,8 @@ El Programa de Tutorías se está construyendo para el PMCI, con base al Program
 | :---- | :------------------------------------------------------------------------------------------------------------------: | ------------------------------- : |
 | 5.1   | Operación de los estudios de posgrado en el TecNM                                                                    | [Descargar](/assets/pdf/5-01.pdf) |
 | 5.2   | Ley general de responsabilidades administrativas                                                                     | [Descargar](/assets/pdf/5-02.pdf) |
+| 5.3   | Mecanismos antiplagio                                                                                                | [Descargar](/assets/pdf/5-03.pdf) |
+| 5.4   | Programa de tutorias                                                                                                 | [Descargar](/assets/pdf/5-04.pdf) |
 | 5.5   | Reglamento de estudiantes del TecNM                                                                                  | [Descargar](/assets/pdf/5-05.pdf) |
 
 ## 6. Proceso de admisión de estudiantes
@@ -105,6 +108,10 @@ El proceso de admisión de estudiantes del PMCI esta como un procedimiento del S
 - Formato Evaluación Final. 
 - Formato Carta de Aceptación. 
 
+| Punto | Descripción                                                                                                          | Documento                         |
+| :---- | :------------------------------------------------------------------------------------------------------------------: | ------------------------------- : |
+| 6.1   | Sistema de gestión integral                                                                                          | [Descargar](/assets/pdf/6-01.pdf) |
+
 ## 7. Seguimiento a la trayectoria académica de los estudiantes
 
 El seguimiento a la trayectoria académica de los estudiantes del PMCI está definido como un procedimiento del Sistema de Gestión Integral del TESH y lo constituyen los siguientes formatos: 
@@ -114,6 +121,10 @@ El seguimiento a la trayectoria académica de los estudiantes del PMCI está def
 - Acta de Designación del director de Tesis. 
 - Formato de Evaluación del Seminario de Investigación- Presentación de Avance de Investigación.
 
+| Punto | Descripción                                                                                                          | Documento                         |
+| :---- | :------------------------------------------------------------------------------------------------------------------: | ------------------------------- : |
+| 7.1   | Sistema de gestión integral                                                                                          | [Descargar](/assets/pdf/6-01.pdf) |
+
 ## 8. Colaboración con los sectores de la sociedad (sociales, institucionales, académicos y productivos) 
 
 La vinculación del PMCI con los sectores sociales, institucionales, académicos y productivos se hace con participación del Departamento de Vinculación y Extensión del TESH. 
@@ -122,11 +133,19 @@ La institución cuenta con procedimientos que facilitan la colaboración con los
 
 El TESH participa en vinculación con los sectores productivos, empresariales, de gobiernos a niveles Federal, Estatal, municipal: con organizaciones de la sociedad civil. IES de nivel superior y posgrado, que se implementan mediante convenios marco y acuerdos de colaboración. En el departamento de Vinculación y Extensión, donde se articulan académicas, investigación científica e innovación tecnológica. 
 
+| Punto | Descripción                                                                                                          | Documento                         |
+| :---- | :------------------------------------------------------------------------------------------------------------------: | ------------------------------- : |
+| 8.1   | Vinculación                                                                                                          | [Ir](/vinculacion/)               |
+
 ## 9. Programas interinstitucionales multisede y multidependencia
 
 Profesores y profesoras del núcleo académico del Programa de Maestría en Ciencias de la Ingeniería (PMCI) identifican los problemas complejos afines al posgrado con un enfoque inter, multi y transdisciplinar. De esta manera, las líneas de investigación de la institución sede (Energías Renovables, Desarrollo de productos y sistemas mecatrónicos y Gestión e innovación Administrativa) se encuentran enmarcadas en los programas nacionales estratégicos (PRONACES). 
 
 El PMCI tiene un entorno complejo de carácter social, cultural y tecnológico característico del Estado de México, cuya solución requiere de un planteamiento con enfoque inter, multi y transdisciplinar; por esta razón, los cuerpos académicos de la institución sede se encuentran conformados por profesionales de áreas de especialización distintos. En el caso del cuerpo académico de nivel en consolidación “Ciencias y Tecnologías en Termofluidos y Mecatrónica Avanzada” está conformado por especialistas en ingeniería, mecánica, mecatrónica, procesos de transformación de energía.  
+
+| Punto | Descripción                                                                                                          | Documento                         |
+| :---- | :------------------------------------------------------------------------------------------------------------------: | ------------------------------- : |
+| 9.1   | Programas interinstitucionales, multisede y muitidependencia                                                         | En construcción                   |
 
 ## 10. Actualización docente, plan de estudios e innovación educativa
 
@@ -144,6 +163,14 @@ En dicha guía, se consideran elementos esenciales para disponer de un posgrado 
 
 El seguimiento y comunicación con las personas egresadas del PMCI lo hará, el Departamento de Vinculación y Extensión del TESH, en el momento que se tengan egresados. El propósito de los Estudios de Seguimiento de Egresados del TecNM es fortalecer la vinculación, tanto con las personas egresadas como con sus empleadores, así como incorporar la mejora en los procesos de efectividad de los Institutos Tecnológicos, a través de la recopilación y análisis de información proporcionada por los egresados y por sus empleadores sobre el desempeño profesional de los egresados. También mediante la División de Estudios de Posgrado e Investigación del TESH, se preverán relaciones de colaboración en proyectos académicos con sus egresados, lo que coadyuva para renovar, fomentar y fortalecer los vínculos entre las personas egresadas. 
 
+| Punto  | Descripción                                                                                                        | Documento                          |
+| :----  | :----------------------------------------------------------------------------------------------------------------: | -------------------------------- : |
+| 11.1   | Encuesta de egresados                                                                                              | [Descargar](/assets/pdf/11-01.pdf) |
+
 ## 12. Planes de mejora de procesos y de infraestructura
 
 De acuerdo con el Código de Buenas Prácticas del PNPC, el plan de mejora es el eje principal del sistema de garantía de la calidad y de la planeación del programa de posgrado. Dicho plan es resultado de la autoevaluación participativa y de la identificación de acciones de mejora, e incorpora adicionalmente las recomendaciones realizadas al programa en dictamen de evaluación, así como acciones correctivas ante posibles contingencias. El plan de mejora debe contener objetivos, actividades, productos esperados y fechas de inicio y fin. 
+
+| Punto  | Descripción                                                                                                        | Documento                          |
+| :----  | :----------------------------------------------------------------------------------------------------------------: | -------------------------------- : |
+| 12.1   | Plan de mejora                                                                                                     | [Descargar](/assets/pdf/12-01.pdf) |

@@ -59,7 +59,7 @@ Además:
 - Capacidad para desarrollar investigación científica en forma coordinada
 - Capacidad para realizar investigación en forma colaborativa 
 
-## Perfil de ingreso
+## Perfil de egreso
 
 El egresado de la Maestría en Ciencias de la Ingeniería tiene la capacidad de resolver problemas técnicos y administrativos en la generación y requerimientos de la ingeniería, en la sociedad y en el sector industrial actual. Además de incursionar en la investigación básica y aplicada de las diferentes Líneas de Generación y Aplicación del Conocimiento.
 
@@ -68,23 +68,22 @@ El egresado de la Maestría tendrá la capacidad de continuar sus estudios de do
 - Innovar tecnologías existentes y comprender tecnologías emergentes y con ello estar en capacidad de resolver los problemas de ingeniería que se presenten. 
 - Trabajar eficazmente en áreas que estén soportadas por diferentes disciplinas, proponiendo sistemas cuyo diseño fomente el uso óptimo de tecnologías desde el punto de vista de la operatividad y de recursos económicos.
 
-## Obtención del grado
-
 Para obtener el grado de Maestría en Ciencias de la Ingeniería debe de obtener un promedio mínimo de 8.0 de calificación general en las asignaturas del programa. Aprobar el examen de conocimientos del idioma inglés y finalmente realizar un proyecto de investigación y defender los resultados en un examen de grado.
 
 Una vez concluida la maestría, el egresado será capaz de:
 
-- Desarrollar metodologías analíticas y de campo para la evaluación de la eficiencia energética de los procesos que se requieren para obtener un producto, servicio o generación de potencia y energía
-- Analizar los procesos y sistemas donde se puede aprovechar el suministro de energía y potencia obtenidas a través de las fuentes de energía renovables 
-- Identificar las áreas de oportunidad en el ámbito energético para disminuir los consumos de energía en la fabricación, manufactura de un producto o un servicio
-- Analizar la factibilidad de incrementar la eficiencia energética de los procesos donde se tenga alguna transformación de energía
-- Comunicarse en los niveles científico, técnico y de divulgación, tanto nacional como internacionalmente 
-- Identificar, planear e implantar soluciones a problemas de su campo disciplinario estudiado en la maestría 
-- Prever la trascendencia social y científico-tecnológica de su campo disciplinario en el marco de la realidad de los problemas nacionales 
-- Propugnar por soluciones prácticas y realizables con la capacidad critica con respecto a la información científica y tecnológica de fuentes especializadas vigentes 
-- Participar en asesorías, consultorías, investigación básica y aplicada y en el desarrollo tecnológico en ámbitos académicos relacionados con su campo disciplinario 
-- iendo de la línea de investigación que el estudiante junto con su consejero seleccione, el egresado será capaz de:
-- Poseer un panorama amplio de las tecnologías de Fuentes de energía convencional y alterna así mismo conocer los principios fundamentales para el análisis y diseño de sistemas para la generación de energía eléctrica mediante la matriz energética de fuentes de gas natural como energía limpia, energía solar, el aprovechamiento de la energía eólica, la transformación de energía marítima en energía mecánica, la obtención de hidrogeno, etc. Con los anterior, el egresado también tendrá la capacidad de comprender los principios básicos de la transformación de energía distinguir entre los principales tipos de tecnologías de energías renovables e identificar lo que cada tecnología puede hacer e identificar cuáles son las tecnologías apropiadas para una situación dada.
+1. Identificar, formular y resolver problemas de las ciencias de la ingeniería de manera innovadora aplicando los principios de física, matemáticas, eficiencia energética y la adaptación de procesos a los nuevos enfoques de la administración y la ingeniería aplicada.
+2. Utilizar metodologías de diseño de ingeniería para el desarrollo de sistemas mecatrónicos, así como de procesos térmicos y de manufactura, incluyendo los procesos de administración para el desarrollo de organizaciones que contribuyan a la transformación científica, económica y social. 
+3. Analizar e interpretar datos bajo el enfoque de la Industria 4.0, así como plantear y desarrollar procedimientos experimentales y establecer conclusiones que creen y desarrollen proyectos sustentables con oportunidades de negocio aplicando investigación de vanguardia.
+4. Comunicarse efectivamente de forma oral y escrita con diferentes audiencias, además de aplicar las tecnologías de la información y la comunicación que optimicen el trabajo y desarrollo dentro de cualquier organización productiva.
+5. Reconocer y tomar decisiones en base a las responsabilidades éticas y profesionales en situaciones relevantes para la ingeniería y realizar juicios informados que deben considerar el impacto de las soluciones de ingeniería en los contextos global, económico, ambiental y social. Interpretando y aplicando el marco legal vigente nacional e internacional para dar certeza jurídica a las organizaciones.
+6. Reconocer la necesidad de adquirir, comprender y poner en práctica conocimientos científicos, tecnológicos de vanguardia, así como el desarrollo de habilidades directivas que complementen y actualicen su formación académica, mediante cursos, diplomados y estudios especializados.
+7. Trabajar en equipos que desarrollan tareas o proyectos, en tiempo y forma, cumpliendo con parámetros de diseño especificados bajo esquemas de sistemas de calidad orientados a la mejora continua con visión multidisciplinaria.
+8. Comunicarse en los niveles científico, técnico y de divulgación, tanto nacional como internacionalmente 
+9. Identificar, planear e implantar soluciones a problemas de su campo disciplinario estudiado en la maestría.
+10. Prever la trascendencia social y científico-tecnológica de su campo disciplinario en el marco de la realidad de los problemas nacionales 
+11. Propugnar por soluciones prácticas y realizables con la capacidad crítica con respecto a la información científica y tecnológica de fuentes especializadas vigentes 
+12. Participar en asesorías, consultorías, investigación básica y aplicada y en el desarrollo tecnológico en ámbitos académicos relacionados con su campo disciplinario
 
 ## Lineas de Generación y Aplicación del Conocimiento (LGAC)
 
