@@ -19,6 +19,20 @@ El graduado de la Maestría en Ciencias de la Ingeniería tendrá conocimientos 
 
 > Ser un programa de posgrado que tenga reconocimiento de excelencia a nivel nacional e internacional mediante la formación de recursos humanos altamente capacitados, dirigidos a la investigación, proporcionando las condiciones y los medios para la generación de conocimiento científico de frontera y de alto impacto, así como que contribuyan a la solución de problemas en el ámbito de la ingeniería.
 
+## Objetivo general
+
+> Formar maestros en Ciencias de la Ingeniería, con una preparación académica rigurosa y solida en su campo de conocimientos, a través del empleo de la investigación aplicada como estrategia formativa, que le permita interactuar en el sector productivo o continuar con estudios de nivel doctorado.
+
+## Objetivos particulares
+
+> Desarrollar metodologías analíticas y de campo para la evaluación de la eficiencia energética, sistemas mecatrónicos y la innovación administrativa, así como de los procesos que se requieren para obtener un producto, servicio o generación de potencia y energía. Así mismo analizar los procesos y sistemas donde se puede aprovechar el suministro de energía y potencia obtenidas a través de las fuentes de energía renovables.
+>
+> - Identificar las áreas de oportunidad en el ámbito energético para disminuir los consumos de energía en la fabricación, manufactura de un producto o un servicio, requerimientos, etc., es decir, analizar la factibilidad de incrementar la eficiencia energética de los procesos donde se tenga alguna transformación de energía
+> - Contribuir a satisfacer la demanda pública y privada con recursos humanos especializados en el estudio, diseño y análisis de fuentes alternas de energía (Hidrogeno, eólica, oceánica y solar).
+> - Formar recursos humanos capaces de competir científicamente en el ámbito nacional e internacional, elaborando trabajos de tesis de relevancia y actualidad, que permita su publicación en revistas arbitradas de carácter internacional.
+> - Cumplir con los parámetros que exige el CONACYT, para ingresar a corto plazo al Padrón Nacional de Posgrados de Calidad.
+> - Continuar a mediano plazo con un Doctorado afín al área. 
+
 ## Perfil de ingreso
 
 La Maestría en Ciencias de la Ingeniería, está dirigida a profesionales egresados del nivel superior de las diferentes áreas de la ingeniería como:

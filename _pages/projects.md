@@ -9,6 +9,8 @@ display_categories: [energías renovables, mecatrónica, gestión e innovación 
 horizontal: false
 ---
 
+La planta docente que conforma este programa dispone de personal altamente capacitado para llevar a cabo la consolidación del programa de maestría. Compuesta por 8 profesores de tiempo completo, de los cuales 4 pertenecen al Sistema Nacional de Investigadores del CONAHCYT, a continuación, se presenta un resumen de las actividades de investigación de los ocho profesores adscritos al Tecnológico de Estudios Superiores de Huixquilucan en donde se propone la creación del programa de MCI.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
