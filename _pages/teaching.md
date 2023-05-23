@@ -89,6 +89,6 @@ Una vez concluida la maestría, el egresado será capaz de:
 
 - Energías renovables: se centra en la investigación básica y aplicada en la comprensión y simulación de los fenómenos energéticos, aplicando la mecánica de fluidos y la transferencia de calor para la innovación de sistemas eficientes en la transformación de la energía.
 
-- Mecatrónica: se centra en la investigación básica y aplicada en las áreas de control automático, aprendizaje automático, mecánica y robótica para el diseño e innovación de procesos y productos mecatrónicos.
+- Desarrollo de productos y sistemas mecatrónicos: se centra en la investigación básica y aplicada en las áreas de control automático, aprendizaje automático, mecánica y robótica para el diseño e innovación de procesos y productos mecatrónicos.
 
 - Gestión e innovación administrativa: desarrollo de procesos de la administración; cómo la planificación, la organización, la dirección, la coordinación o interrelación y el control de las organizaciones con un enfoque empresarial innovador y competitivo.

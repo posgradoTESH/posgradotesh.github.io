@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Documentos propuesta
+title: Maestría en Ciencias de la Ingeniería
 nav: true
 nav_order: 5
 dropdown: true
 children: 
+    - title: Proceso de admisión
+      permalink: /admisión/
+    - title: divider
+    - title: Contenido temático
+      permalink: /temarios/
+    - title: divider
     - title: Documentos SIFOR
       permalink: /sifor/
-    - title: divider
-    - title: projects
-      permalink: /projects/
 ---
