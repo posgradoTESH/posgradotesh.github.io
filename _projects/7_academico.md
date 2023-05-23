@@ -2,7 +2,7 @@
 layout: page
 title: Dr. Maximino Sánchez Muñoz
 description: LGAC Gestión e Innovación Administrativa
-img: assets/img/12.jpg
+img: assets/img/maximino.jpg
 importance: 1
 category: gestión e innovación administrativa
 ---

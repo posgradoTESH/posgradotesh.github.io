@@ -6,7 +6,7 @@ nav_order: 5
 dropdown: true
 children: 
     - title: Proceso de admisión
-      permalink: /admisión/
+      permalink: /admision/
     - title: divider
     - title: Contenido temático
       permalink: /temarios/
