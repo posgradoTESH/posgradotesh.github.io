@@ -8,6 +8,6 @@ children:
     - title: Acuerdos de colaboración
       permalink: /vinculacion/
     - title: divider
-    - title: Encuesta de empleadores
+    - title: Encuesta para empleadores y especialistas
       permalink: /encuestas/
 ---
