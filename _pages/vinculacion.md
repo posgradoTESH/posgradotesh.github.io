@@ -3,8 +3,8 @@ layout: page
 permalink: /vinculacion/
 title: Vinculación
 description: Maestría en Ciencias de la Ingeniería
-nav: true
-nav_order: 4
+nav: false
+nav_order: 1
 ---
 
 ## Acuerdos de colaboración con los sectores de la sociedad
